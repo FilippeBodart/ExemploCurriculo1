@@ -8,11 +8,11 @@
 
 <h2>Tecnologias Utilizadas 👨‍💻</h2>
 
-<p>O site de currículo foi desenvolvido utilizando uma variedade de tecnologias para garantir uma experiência suave e responsiva. Entre elas, gostaria de ressaltar o uso do <strong>Flex-Box</strong> e de convenções de organização como o <strong>BEM</strong> para nomenclatura e inspiração no modelo <strong>ATOM</strong> para organização dos arquivos. </p>
+<p>O site de currículo foi desenvolvido utilizando uma variedade de tecnologias para garantir uma experiência suave e responsiva. Entre elas, gostaria de ressaltar o uso do <strong>Flex-Box</strong> e de convenções de organização como o <strong>BEM</strong> para nomenclatura, inspiração no modelo <strong>ATOM</strong> para organização dos arquivos e, por fim, o <strong>Media Querie</strong>. </p>
 
 <ul>
   <li>HTML5 e CSS3: Para a estrutura e a aparência visual do site.</li>
-  <li>JavaScript: Para adicionar funcionalidades dinâmicas.</li>
+  <li>JavaScript: Para adicionar a funcionalidade de copiar o e-mail para área de transferência, que me propus a pesquisar.</li>
 </ul>
 
 <h2>Contato 📬</h2>

@@ -1,0 +1,26 @@
+.cabecalho{
+    width: 90%;
+    height: 20vh;
+    
+    margin-top: 5vh;
+    margin-bottom: 2.5vh;
+}
+
+.cabecalho__titulo, .cabecalho__paragrafo{
+    text-align: center;
+}
+
+.cabecalho__titulo{
+    margin-bottom: calc(5px + 1.5vh);
+}
+
+.cabecalho__paragrafo{
+    font-size: calc(15px + 1.5vh);
+}
+
+@media (max-width: 1024px){
+    .cabecalho{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}

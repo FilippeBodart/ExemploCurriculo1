@@ -1,0 +1,37 @@
+@import url("./styles/cabecalho.css");
+@import url("./styles/landing.css");
+
+:root {
+    --fundo-principal: #fcfcfc;
+    --titulo-cabecalho: #24b2dd;
+    --fonte-padrao: #000000;   
+    --card-fundo: #2b2741;
+    --card-fonte: #8febd5;
+}
+
+.cabecalho, .landing{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1{
+    font-weight: 800;
+    font-size: calc(55px + 1.5vh);
+    color: var(--titulo-cabecalho);
+}
+
+h2{
+    font-weight: 700;
+    font-size: calc(20px + 1.5vh);
+    color: var(--fonte-padrao);
+}
+
+h3{
+    font-weight: 700;
+    font-size: calc(9px + 1.5vh);
+    color: var(--fonte-padrao);
+}
+
+p{
+    font-weight: 400;
+    font-size: calc(8px + 1.5vh);
+}

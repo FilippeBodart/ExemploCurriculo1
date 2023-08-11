@@ -4,7 +4,7 @@
 
 <h2>Acesso ao Site 🌐</h2>
 
-<p>Você pode acessar o site de currículo através do seguinte link: <a href="https://seusite.com">Meu Site de Currículo</a></p>
+<p>Você pode acessar o site de currículo através do seguinte link: <a href="https://filippebodart.github.io/ExemploCurriculo1/">Meu Site de Currículo</a></p>
 
 <h2>Tecnologias Utilizadas 👨‍💻</h2>
 
